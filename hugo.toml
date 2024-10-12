@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://example.org/' 'https://snazzy-queijadas-06554f.netlify.app/foods/'
 languageCode = 'en-us'
 title = 'The Flux Blog'
 
