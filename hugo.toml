@@ -1,5 +1,0 @@
-baseURL = 'https://snazzy-queijadas-06554f.netlify.app/foods/'
-languageCode = 'en-us'
-title = 'The Flux Blog'
-
-theme = 'lugo'
